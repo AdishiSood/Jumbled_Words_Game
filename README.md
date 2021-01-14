@@ -12,6 +12,7 @@ The game would be of two players, who would turn wise get random words which hav
 **LOGIC:**
 
 This will be done in 4 steps:
+
 **1. Create a library of words for the game**
 
 * create a list of words, with as many words you want
