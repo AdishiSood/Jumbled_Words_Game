@@ -27,13 +27,14 @@ This will be done in 4 steps:
   jumbled="".join(random.sample(word,len(word)))
 
 * return the jumbled word
+
 **3. Function to give ending lines of game**
 
 * Your choice of presentation
 * Scores on the game
 * After that a thanking note
 
-**4. Defining the game**
+**4. Summary of the game**
 
 * declare two variable and take name of players
 * declare two variables for points , initially as zero
